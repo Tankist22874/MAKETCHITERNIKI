@@ -91,3 +91,12 @@ footer a {
 img {
     background-color: lime;
 }
+
+header a {
+    color: yellow;
+    background-color: purple;
+    border-radius: 10px;
+    padding: 5px 7px;
+    margin: 5 0px;
+    text-decoration: none;
+}
